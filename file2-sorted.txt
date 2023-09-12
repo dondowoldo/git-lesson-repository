@@ -1,0 +1,3 @@
+A jeste jeden.
+Dalsi radek.
+Toto je String.
